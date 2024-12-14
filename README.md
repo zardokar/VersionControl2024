@@ -3,7 +3,7 @@
 
 # Project
 
-2.  Team : FoodLab
+2.  Team : EdgeLoop
     Project : https://github.com/Gnared/Project_FoodLab
 
     - 651310111 ฐนพลศ์ เซ่งหลี่ : Game Developer
