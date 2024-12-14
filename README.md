@@ -42,11 +42,11 @@
 5. Team : Red-Hot-CHili
     Project : https://githup.com/Kitsip/Red-Hot-Chili.git
 
-   -651310108 จีรวิชญ์ รุจิระวิทยา : Game Developer
+   - 651310108 จีรวิชญ์ รุจิระวิทยา : Game Developer
    https://github.com/Nongp111
-   -651310128 วรัญญู กิจบำเรอ : 2D/3D Artist
+   - 651310128 วรัญญู กิจบำเรอ : 2D/3D Artist
    https://github.com/Kitsip
-   -651310352 กีรติ เกตุวงษ์ : Game Designer
+   - 651310352 กีรติ เกตุวงษ์ : Game Designer
    https://github.com/KeeratiKEERATI
 
 6.  Team : Wyvern 
