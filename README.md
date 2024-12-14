@@ -29,6 +29,16 @@
     - 651310130 ศุภิสรา เปรมทอง : 2D Artist 
     https://github.com/imiiru
 
+4. Team : OverZealous
+   Project : https://github.com/NaiNai-Ja/OverZealousGameProduction.git
+
+    - 651310110 ชำนาญ บุญปก : Art Director & 3D Modeler
+    https://github.com/camnan090/VersionControl2024.git
+    - 651310112 ฐาปกรณ์ ปิ่นตระกูล : Game Developer
+    https://github.com/TapakornTak/651310112_TestUEProject.git
+    - 651310113 ณัฐนนท์ เตชะบุญเกียรติ : Game Designer
+    https://github.com/NaiNai-Ja/UE5GitTestClass.git
+
 6.  Team : Wyvern 
     Project : https://github.com/Ar2Mos/Project_Wyvern.git
 
@@ -65,7 +75,7 @@
     - 651310353 จารวี แก้วเกียรติศักดิ์ : Game Design
       https://github.com/bour2012
 
-11. Team : Sompomg
+10. Team : Sompomg
    Project : https://github.com/Akaichuu/Project_Sompong.git
 
     - 651310129 ศศิติมนต์ สงวนรัมย์ : Art Director
