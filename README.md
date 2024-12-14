@@ -49,6 +49,12 @@
     - 651310357 นายปณิธิ ทรงเล็กสิงห์ : Sound Artist
     https://github.com/Songleksing
 
+8.  Team : MuggyShrimp Project : https://github.com/skawginw/MuggyShrimp
+
+    - 651310120 ปุญญิศา ทวีชัยวัฒน์ : Game Developer & 2D Artist https://github.com/skawginw
+    - 651310122 พิมพ์พร เหมือนเดิม : Game Designer https://github.com/Muandeam
+    - 651310126 รมิดา สุดสุข : 2D Artist & Game Developer https://github.com/jamierlon
+
 9.  Team : Sathu99
     Project : https://github.com/Banacream/Sathu99.git
     
