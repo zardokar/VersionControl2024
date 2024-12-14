@@ -39,6 +39,16 @@
     - 651310113 ณัฐนนท์ เตชะบุญเกียรติ : Game Designer
     https://github.com/NaiNai-Ja/UE5GitTestClass.git
 
+5. Team : Red-Hot-CHili
+    Project : https://githup.com/Kitsip/Red-Hot-Chili.git
+
+   -651310108 จีรวิชญ์ รุจิระวิทยา : Game Developer
+   https://github.com/Nongp111
+   -651310128 วรัญญู กิจบำเรอ : 2D/3D Artist
+   https://github.com/Kitsip
+   -651310352 กีรติ เกตุวงษ์ : Game Designer
+   https://github.com/KeeratiKEERATI
+
 6.  Team : Wyvern 
     Project : https://github.com/Ar2Mos/Project_Wyvern.git
 
@@ -85,7 +95,7 @@
     - 651310115 ธนภรณ์ แทนหา : Game Developer
     https://github.com/Akaichuu
 
-12. Team : กรุ่มกริ่ม is cooking
+11. Team : กรุ่มกริ่ม is cooking
     Project : https://github.com/CamelliaXD/GrumGrim-is-cooking
 
     - 651310109 ชลธชา สังข์นาค : 2D Artist/FX
@@ -94,3 +104,10 @@
       (ยังไม่อัพ)
     - 651310355 ทิพรัตน์ ประสิทธิพันธุ์ : Game Design / Developer
       https://github.com/tipsitpra0
+
+12. Team : Clovers
+    Project : https://github.com/brick5/Project_The_Clovers
+    - 651310351 กิจติพันธุ์ ด้วงเกตุ : Game Design
+    https://github.com/brick5
+    - 651310354 ชนม์ชนก โหรา : Game Dev
+    https://github.com/ItsGlazzy      
