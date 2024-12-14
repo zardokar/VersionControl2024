@@ -13,6 +13,15 @@
     - 651310121 พิพิชธน ทิววัฒน์ปกรณ์ : 3D Modeler & Animator
     https://github.com/JackMaMa001
 
+3.  Team : ChillGirls
+    Project :https://github.com/imiiru/ChillGirls
+
+    - 651310107 จิลมิกา ประทีปคีรี : 3D Model 
+    https://github.com/Jilamikera
+    - 651310117 นันทพร ปั้นประเสริฐ : Game Design 
+    https://github.com/Nantaporn25
+    - 651310130 ศุภิสรา เปรมทอง : 2D Artist 
+    https://github.com/imiiru
 
 6.  Team : Wyvern 
     Project : https://github.com/Ar2Mos/Project_Wyvern.git
