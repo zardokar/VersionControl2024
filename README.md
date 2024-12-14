@@ -3,6 +3,12 @@
 
 # Project
 
+1.  Team : Chummy Cherish : https://github.com/Longboye99/Chummy-Cherish
+    - 651310114 ณัฐภัทร อดุลโภคาธร : GameDev
+    https://github.com/Longboye99
+    - 651310490 กฤตยา มาธุสรสกุล : Artist
+    https://github.com/teddiibearo
+
 2.  Team : EdgeLoop
     Project : https://github.com/Gnared/Project_FoodLab
 
