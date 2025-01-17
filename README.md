@@ -8,6 +8,8 @@
     https://github.com/Longboye99
     - 651310490 กฤตยา มาธุสรสกุล : Artist
     https://github.com/teddiibearo
+    - 651310351 กิจติพันธุ์ ด้วงเกตุ : Game Design
+    https://github.com/brick5
 
 2.  Team : EdgeLoop
     Project : https://github.com/Gnared/Project_FoodLab
@@ -107,7 +109,5 @@
 
 12. Team : Clovers
     Project : https://github.com/brick5/Project_The_Clovers
-    - 651310351 กิจติพันธุ์ ด้วงเกตุ : Game Design
-    https://github.com/brick5
     - 651310354 ชนม์ชนก โหรา : Game Dev
     https://github.com/ItsGlazzy      
